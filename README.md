@@ -2,6 +2,10 @@
   <img src="https://github.com/DolicaAkelloEgwel/DolicaAkelloEgwel/blob/master/squeakums.jpg">
 </p>
 
+<p align="center">
+  <img src="https://github.com/DolicaAkelloEgwel/DolicaAkelloEgwel/blob/master/welcome.gif">
+</p>
+
 ```
 We checked out all the prophecies. We studied fat philosophies
 We made a graph... We chanted ooooommmmm
