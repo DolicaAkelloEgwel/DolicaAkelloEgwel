@@ -27,6 +27,7 @@ We're getting nowhere. No doors deep inside this corridor
 Of space and time... if space and time exist
 Oh we'll persist, if we exist. Are you listening?
 ```
-<p align="center">
-  "If you do not pay soft attention to bird song, you will burn in hell." - Darren Allen
-</p>
+
+>  _"If you do not pay soft attention to bird song, you will burn in hell."_
+> 
+> — Darren Allen
